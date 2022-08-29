@@ -31,7 +31,7 @@ body {
 body {
   margin: 0;
   padding: 0;
-  font-weight: 600;
+  font-weight: 200;
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
@@ -153,6 +153,18 @@ li {
   list-style: none;
 }
 
+ul.project-details {
+  margin-right: var(--spacing-one);
+  margin-left: var(--spacing-one);
+  margin-top: 0;
+  margin-bottom: 25px;
+  padding: 0;
+}
+
+ul.project-details > li {
+  list-style: disc inside;
+}
+
 nav {
   font-family: 'Playfair Display', serif;
 }
@@ -188,8 +200,17 @@ textarea {
   justify-content: space-between;
 }
 
+.flex-center {
+  justify-content: center;
+  align-items: center;
+}
+
 .flex-end {
   justify-content: flex-end;
+}
+
+.flex-space-evenly {
+  justify-content: space-evenly;
 }
 
 .mx-1 {
@@ -243,10 +264,10 @@ textarea {
 }
 
 .img-thumbnail {
-  width: auto;
-  height: 300px;
-  margin-bottom: 50px;
-  cursor: pointer;
+  margin-bottom: 1px;
+  max-width: 100%;
+  object-fit: contain;
+  height: auto;
 }
 
 .modalBackdrop {

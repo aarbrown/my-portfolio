@@ -2,6 +2,9 @@ import React, { useState } from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import About from './components/About';
+import Resume from './components/Resume';
+import ContactForm from './components/Contact';
+import ProjectList from './components/ProjectList';
 
 function App() {
   const [sections] = useState([
@@ -30,6 +33,15 @@ function App() {
       <main>
         {currentSection.name === 'about' && (
           <About />
+        )}
+        {currentSection.name === 'contact' && (
+          <ContactForm />
+        )}
+        {currentSection.name === 'portfolio' && (
+          <ProjectList />
+        )}
+        {currentSection.name === 'resume' && (
+          <Resume />
         )}
       </main>
       <Footer />
