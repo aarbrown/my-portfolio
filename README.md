@@ -1,3 +1,12 @@
+![ScreenShot](https://raw.github.com/aarbrown/my-portfolio/master/src/assets/myportfolio.png)
+# Description
+
+This is a portfolio built using React
+
+# Live Site
+
+The site is hosted on github-pages at https://aarbrown.github.io/my-portfolio/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
