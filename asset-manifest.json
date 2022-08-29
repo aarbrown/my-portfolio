@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.21c61848.css",
-    "main.js": "/static/js/main.e5e6f4c2.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/photoport.jpg": "/static/media/photoport.52b170334235dbcb2ee8.jpg",
-    "static/media/pltw.jpg": "/static/media/pltw.83e6ca90e5ec32e40540.jpg",
-    "static/media/uindy.jpg": "/static/media/uindy.5fe439485496148b7b6c.jpg",
-    "static/media/nd.jpg": "/static/media/nd.1f3675306f46a6860c0a.jpg",
-    "static/media/ab.jpg": "/static/media/ab.0b8f954c2e6cca317abd.jpg",
-    "static/media/salesforceplus.jpeg": "/static/media/salesforceplus.7332bbaf08adbfe4f47f.jpeg",
-    "static/media/aaron.jpeg": "/static/media/aaron.db62d1ef52565d0a8809.jpeg",
-    "static/media/breifcase.png": "/static/media/breifcase.27c15feb666f71963083.png",
-    "index.html": "/index.html",
-    "static/media/github.svg": "/static/media/github.1ba3cd4d5be2bed39ba9b547b54b1f97.svg",
-    "static/media/twitter.svg": "/static/media/twitter.b8c7debdd9df85361ca4233c8cb46cd6.svg",
-    "static/media/linkedin.svg": "/static/media/linkedin.642e28070c80dbfd44b6096c5e15b109.svg",
-    "main.21c61848.css.map": "/static/css/main.21c61848.css.map",
-    "main.e5e6f4c2.js.map": "/static/js/main.e5e6f4c2.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.21c61848.css",
+    "main.js": "/my-portfolio/static/js/main.bc59134e.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/photoport.jpg": "/my-portfolio/static/media/photoport.52b170334235dbcb2ee8.jpg",
+    "static/media/pltw.jpg": "/my-portfolio/static/media/pltw.83e6ca90e5ec32e40540.jpg",
+    "static/media/uindy.jpg": "/my-portfolio/static/media/uindy.5fe439485496148b7b6c.jpg",
+    "static/media/nd.jpg": "/my-portfolio/static/media/nd.1f3675306f46a6860c0a.jpg",
+    "static/media/ab.jpg": "/my-portfolio/static/media/ab.0b8f954c2e6cca317abd.jpg",
+    "static/media/salesforceplus.jpeg": "/my-portfolio/static/media/salesforceplus.7332bbaf08adbfe4f47f.jpeg",
+    "static/media/aaron.jpeg": "/my-portfolio/static/media/aaron.db62d1ef52565d0a8809.jpeg",
+    "static/media/breifcase.png": "/my-portfolio/static/media/breifcase.27c15feb666f71963083.png",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/github.svg": "/my-portfolio/static/media/github.1ba3cd4d5be2bed39ba9b547b54b1f97.svg",
+    "static/media/twitter.svg": "/my-portfolio/static/media/twitter.b8c7debdd9df85361ca4233c8cb46cd6.svg",
+    "static/media/linkedin.svg": "/my-portfolio/static/media/linkedin.642e28070c80dbfd44b6096c5e15b109.svg",
+    "main.21c61848.css.map": "/my-portfolio/static/css/main.21c61848.css.map",
+    "main.bc59134e.js.map": "/my-portfolio/static/js/main.bc59134e.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21c61848.css",
-    "static/js/main.e5e6f4c2.js"
+    "static/js/main.bc59134e.js"
   ]
 }
