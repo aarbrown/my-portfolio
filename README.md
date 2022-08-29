@@ -1,9 +1,9 @@
 ![ScreenShot](https://raw.github.com/aarbrown/my-portfolio/master/src/assets/myportfolio.png)
-# Description
+## Description
 
 This is a portfolio built using React
 
-# Live Site
+## Live Site
 
 The site is hosted on github-pages at https://aarbrown.github.io/my-portfolio/
 
